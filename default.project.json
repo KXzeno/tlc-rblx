@@ -51,6 +51,10 @@
 				"LavaFloor": {
 					"$className": "Part",
 					"$path": "out/components/LavaFloor"
+				},
+				"FadingPlatform": {
+					"$className": "Part",
+					"$path": "out/components/FadingPlatform"
 				}
 			}
 		},
