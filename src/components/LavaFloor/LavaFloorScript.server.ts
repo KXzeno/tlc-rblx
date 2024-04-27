@@ -8,7 +8,7 @@ function kill(otherPart: Part | BasePart): void {
   }
 
   if (partParent && humanoid) {
-      (humanoid as Humanoid).Health = 0;
+      (humanoid as Humanoid).Health = 1;
   }
 }
 
