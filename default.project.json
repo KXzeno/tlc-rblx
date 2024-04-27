@@ -43,7 +43,6 @@
 			},
 			"Components": {
 				"$className": "Folder",
-				"$path": "out/components",
 				"DisappearingPlatform": {
 					"$className": "Part",
 					"$path": "out/components/DisappearingPlatform"
