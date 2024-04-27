@@ -1,0 +1,11 @@
+# config
+/node_modules/
+.eslintrc
+/include/
+
+# lib
+/include/
+
+# build
+*rbxlx*
+/out/
